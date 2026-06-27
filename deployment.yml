@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: cont-1
-        image: shaikmustafa/dm
+        image: prasanth199/stayspace
         ports:
         - containerPort: 80
